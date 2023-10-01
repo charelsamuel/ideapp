@@ -3,7 +3,9 @@
   "description": "When you are daydreaming about an application idea and you want to take a note or write down the idea, then you can put the idea in this Ideapp Application.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
