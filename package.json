@@ -1,4 +1,22 @@
 {
+  "name": "ideapp",
+  "description": "When you are daydreaming about an application idea and you want to take a note or write down the idea, then you can put the idea in this Ideapp Application.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charelsamuel/ideapp.git"
+  },
+  "author": "Charel Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charelsamuel/ideapp/issues"
+  },
+  "homepage": "https://github.com/charelsamuel/ideapp#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
